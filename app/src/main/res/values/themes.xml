@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MyApplication" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/dongker_oxford</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green_accent</item>
+        <item name="colorSecondaryVariant">@color/green_accent_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/green_primary</item>
+    </style>
+
+    <style name="Theme.MyApplication.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green_accent</item>
+        <item name="colorSecondaryVariant">@color/green_accent_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/green_primary</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.MyApplication">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

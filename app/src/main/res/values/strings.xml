@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Project UTS D&amp;S</string>
+
+
+    <string name="error_occurred">Error Occurred</string>
+    <string name="daftar_doa">Daftar Doa</string>
+    <string name="data_masjid">Data Masjid</string>
+    <string name="download_from">Download from:</string>
+        <string name="splash_title">Doa Sehari-hari</string>
+        <string name="logo_desc">Kumpulan Doa Sehari-hari</string>
+        <string name="main_title">Daftar Doa Harian</string>
+        <string name="search_hint">Cari doa...</string>
+        <string name="refresh">Refresh</string>
+        <string name="loading">Memuat...</string>
+        <string name="error_network">Gagal memuat data. Periksa koneksi internet Anda.</string>
+        <string name="try_again">Coba Lagi</string>
+        <string name="detail_title">Detail Doa Sehari Hari</string>
+        <string name="arabic_text">Teks Arab</string>
+        <string name="latin_text">Bacaan Latin</string>
+        <string name="translation">Terjemahan</string>
+        <string name="daftar_item">Daftar Item</string>
+        <string name="mohon_tunggu_sebentar">Mohon tunggu sebentar...</string>
+        <string name="periksa_koneksi_internet">Periksa koneksi internet Anda dan coba lagi</string>
+        <string name="tambah_item_baru">Tambah item baru</string>
+    <string name="app_title">Kumpulan Doa Islami</string>
+
+    <!-- Header -->
+    <string name="header_title">Kumpulan Doa Harian</string>
+    <string name="header_subtitle">Koleksi doa-doa pilihan untuk kehidupan sehari-hari</string>
+
+    <!-- Footer -->
+    <string name="footer_source">Sumber Data</string>
+    <string name="footer_url">https://www.baftar.com</string>
+
+    <!-- Loading -->
+    <string name="loading_message">Memuat doa-doa...</string>
+
+    <!-- Error -->
+    <string name="error_title">Oops! Terjadi Kesalahan</string>
+    <string name="error_message">Terjadi kesalahan saat memuat data</string>
+    <string name="retry_button">Coba Lagi</string>
+</resources>
